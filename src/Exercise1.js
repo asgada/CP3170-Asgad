@@ -8,7 +8,7 @@ class Exercise1 extends React.Component {
     return (
       <div>
         <Grid container direction="column">
-          <Button size="large" variant="outlined" style={{width:"50vmin"}} >
+          <Button size="large" variant="outlined" style={{ width: "50vmin" }}>
             Default
           </Button>
           <Button size="large" variant="outlined" color="primary">
