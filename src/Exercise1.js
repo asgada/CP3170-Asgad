@@ -27,9 +27,16 @@ class Exercise1 extends React.Component {
             Inherit
           </Button>
         </Grid>
-        {/* <Paper elevation={5} style={{backgroundColor:"yellow", width:"10vmin", fontFamily:"Courier New" }}>
+        <Paper
+          elevation={5}
+          style={{
+            backgroundColor: "yellow",
+            width: "10vmin",
+            fontFamily: "Courier New"
+          }}
+        >
           This is a paper
-        </Paper> */}
+        </Paper>
       </div>
     );
   }
